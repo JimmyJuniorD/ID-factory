@@ -1,6 +1,0 @@
-[15144:12976:0120/155705.999:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15144:12976:0120/155706.304:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15144:12976:0120/155715.681:WARNING:extension_service.cc(2034)] Found external version of extension ncennffkjdiamlpmcbajkmaiiiddgioothat is older than current version. Current version is: 3.52.14. New version is: 3.52.5. Keeping current version.
-[2444:6500:0120/155716.628:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5003F390BDBD4E6BDCA2FB00364F9952 will be ignored
-[15144:12976:0120/155719.866:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension efaidnbmnnnibpcajpcglclefindmkaj
-[15144:12976:0120/155748.976:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
