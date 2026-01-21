@@ -1,5 +1,0 @@
-[17496:17888:0120/163659.354:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17496:17888:0120/163659.392:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17212:17760:0120/163701.793:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F1F61DFAC8973806F8181AA9E9E14A98 will be ignored
-[17496:17888:0120/163705.677:ERROR:extension_registrar.cc(549)] Failed to unregister service worker for extension ncennffkjdiamlpmcbajkmaiiiddgioo
-[17496:17888:0120/163811.831:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,6 +1,18 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Unreal Engine 生成的垃圾文件 (加通配符以防万一)
+**/Binaries/
+**/Build/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Sln/
+
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
+
 # Compiled Object files
 *.slo
 *.lo
