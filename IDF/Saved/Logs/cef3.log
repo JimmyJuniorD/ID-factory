@@ -1,0 +1,5 @@
+[16800:8492:0121/151748.927:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16800:8492:0121/151749.375:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16800:8492:0121/151759.245:WARNING:extension_service.cc(2034)] Found external version of extension ncennffkjdiamlpmcbajkmaiiiddgioothat is older than current version. Current version is: 3.52.14. New version is: 3.52.5. Keeping current version.
+[10760:2484:0121/151759.769:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4734FB5C6973EF17CCF21D6F76F1B2BD will be ignored
+[16800:8492:0121/152249.364:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
